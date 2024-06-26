@@ -1,0 +1,7 @@
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\bin\Debug\CowsAndBullsGame.exe.config
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\bin\Debug\CowsAndBullsGame.exe
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\bin\Debug\CowsAndBullsGame.pdb
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\obj\Debug\CowsAndBullsGame.csproj.AssemblyReference.cache
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\obj\Debug\CowsAndBullsGame.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\obj\Debug\CowsAndBullsGame.exe
+C:\Users\Mitko\source\repos\CowsAndBullsGame\CowsAndBullsGame\obj\Debug\CowsAndBullsGame.pdb
